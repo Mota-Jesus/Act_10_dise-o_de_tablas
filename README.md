@@ -2,4 +2,5 @@
 ## Foto_Tablas_Cuaderno:
 -
 ## Captura_Tablas:
-- ![image](https://github.com/user-attachments/assets/e8df9ebf-2ce8-4816-a777-5ee837f24df7)
+- ![image](https://github.com/user-attachments/assets/6b5684a1-e5c9-4b55-956e-8230f7244b82)
+
